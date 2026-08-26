@@ -26,6 +26,71 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/gemini-coverage-20260719-0117.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/gemini-coverage-20260719-0118.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/gemini-coverage-20260719-0119.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/gemini-coverage-20260719-0123.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/gemini-coverage-20260722-0332.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/gemini-coverage-20260722-0336.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/normal-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/qa-001-1scm3u5.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/juice-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/juice-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/normal-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/normal-3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/gemini-coverage-20260719-0109.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -66,21 +131,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/gemini-coverage-20260719-0117.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/gemini-coverage-20260719-0118.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/gemini-coverage-20260719-0119.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/gemini-coverage-20260719-0120.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -92,11 +142,6 @@
   </url>
   <url>
     <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/gemini-coverage-20260719-0122.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/gemini-coverage-20260719-0123.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -136,11 +181,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/gemini-coverage-20260722-0332.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/gemini-coverage-20260722-0333.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -152,11 +192,6 @@
   </url>
   <url>
     <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/gemini-coverage-20260722-0335.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/gemini-coverage-20260722-0336.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -182,46 +217,6 @@
   </url>
   <url>
     <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/gemini-coverage-20260722-0341.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/juice-1.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/juice-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/normal-1.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/normal-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/normal-3.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts/qa-001-1scm3u5.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dangsan-room-note.mapo-room-guide.xyz/posts-2.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
